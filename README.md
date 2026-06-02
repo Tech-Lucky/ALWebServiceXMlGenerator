@@ -84,9 +84,3 @@ Feel free to improve the script, add features, or convert it into a full VS Code
 🏷️ Tags
 
 #BusinessCentral #ALLanguage #Dynamics365 #VSCode #ERP #Automation
-
-If you want, I can also:
-
-Turn this into a proper GitHub repo structure (with folders + sample AL project)
-Add badges + screenshots
-Or make it look like a popular open-source tool page (more viral style)
