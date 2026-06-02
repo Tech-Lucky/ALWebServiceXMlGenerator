@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Generate WebServices XML",
+            "type": "shell",
+            "command": "node generate-webservices.js",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
